@@ -38,6 +38,10 @@ solution! It's ok if your initial solution isn't optimal from a runtime
 perspective; it's totally fine to brute force your way to a solution and get
 something working before trying to optimize.
 
+``````
+make a function 'hasTargetSum' that checks if two numbers from the array add up to a target. For example, if I have an array [ 1,2,3,4], and target is 6, then i should return true because 2 and 4 add up to 6. 
+for each number check if there's a number that adds up to the target.
+``````
 ## Problem Solving Approach
 
 Use the
